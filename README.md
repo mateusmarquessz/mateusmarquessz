@@ -9,3 +9,7 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mateusmarquessz&show_icons=true&theme=radical">
    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmarquessz&layout=compact&show_icons=true&theme=radical">
   </div
+
+
+
+![Snake animation](https://github.com/mateusmarquessz/mateusmarquessz/blod/output/github-contribution-grid-snake.svg)
