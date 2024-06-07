@@ -2,7 +2,7 @@
 
 - 💬 Me chamo Mateus sou estudante de Ciências da Computação no Instituto Federal do Sul De Minas - Campus Passos
 - 🔭 Hoje sou somente estudante
-- 🌱 Estou estudando Desenvolvimento
+- 🌱 
 - 📫 Contate-me: Mateusmarques53@hotmail.com
 
 <div>
