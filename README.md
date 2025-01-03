@@ -1,8 +1,8 @@
 ### Olá👋
 
 - 💬 Me chamo Mateus sou estudante de Ciências da Computação no Instituto Federal do Sul De Minas - Campus Passos
-- 🔭 Hoje estou somente nos estudos
-- 🌱 Estudando Back-End
+- 🔭 Hoje estou focado somente nos estudos para achar um cargo de desenvolvedor junior
+- 🌱 Estudando Java-Spring
 - 📫 Contate-me: Mateusmarques53@hotmail.com
 
 <div>
