@@ -1,5 +1,5 @@
 
-![Header](./header)
+![Header](./header.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Seguran%C3%A7a%2C+desempenho+e+intelig%C3%AAncia.)](https://git.io/typing-svg)
 
