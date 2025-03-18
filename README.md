@@ -33,30 +33,40 @@
 
 ## Minhas Tecnologias
 
-<table align="center">
+<div align="center">
+  <table>
     <tr>
-        <td align="center">
-            <img style="width: 100%; max-width: 300px;" src="https://img.icons8.com/plasticine/100/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-            <br>Java 
-        </td>
-        <td align="center">
-            <img style="width: 100%; max-width: 300px;" src="https://img.icons8.com/officel/80/spring-logo.png" alt="spring-logo"/>
-            <br>Spring Boot
-        </td>
-        <td align="center">
-            <img style="width: 90%; max-width: 300px;" src="https://img.icons8.com/plasticine/100/postgreesql.png" alt="postgreesql"/>
-            <br>PostgreSQL
-        </td>
-        <td align="center">
-            <img style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=52wKEsyyo49O&format=png&color=000000" alt="javascript-logo"/>
-            <br>Javascript
-        </td>
-        <td align="center">
-            <img style="width: 90%; max-width: 300px;" src="https://img.icons8.com/officel/80/react.png" alt="sql-logo"/>
-            <br>React
-        </td>
+      <td align="center" width="150px">
+        <img src="https://img.icons8.com/plasticine/150/java-coffee-cup-logo.png" width="80px" height="80px" alt="Java">
+        <br>
+        <strong>Java</strong>
+      </td>
+      <td align="center" width="150px">
+        <img src="https://img.icons8.com/officel/150/spring-logo.png" width="80px" height="80px" alt="Spring Boot">
+        <br>
+        <strong>Spring Boot</strong>
+      </td>
+      <td align="center" width="150px">
+        <img src="https://img.icons8.com/plasticine/150/postgreesql.png" width="80px" height="80px" alt="PostgreSQL">
+        <br>
+        <strong>PostgreSQL</strong>
+      </td>
+      <td align="center" width="150px">
+        <img src="https://img.icons8.com/?size=150&id=52wKEsyyo49O&format=png&color=000000" width="80px" height="80px" alt="JavaScript">
+        <br>
+        <strong>JavaScript</strong>
+      </td>
+      <td align="center" width="150px">
+        <img src="https://img.icons8.com/officel/150/react.png" width="80px" height="80px" alt="React">
+        <br>
+        <strong>React</strong>
+      </td>
     </tr>
-</table>
+  </table>
+</div>
+
+
+
 
 
 ## Contribuições
