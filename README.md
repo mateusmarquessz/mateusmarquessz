@@ -48,7 +48,7 @@
             <br>PostgreSQL
         </td>
         <td align="center">
-            <img style="width: 90%; max-width: 300px;" src="https://img.icons8.com/pulsar-color/48/javascript.png" alt="javascript-logo"/>
+            <img style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=52wKEsyyo49O&format=png&color=000000" alt="javascript-logo"/>
             <br>Javascript
         </td>
         <td align="center">
