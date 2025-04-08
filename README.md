@@ -72,3 +72,10 @@
 ## Contribuições
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusmarquessz&show_icons=true&theme=dark)
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmarquessz&layout=compact&show_icons=true&theme=dark">
+
+## Pacman
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusmarquessz/mateusmarquessz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusmarquessz/mateusmarquessz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mateusmarquessz/mateusmarquessz/output/pacman-contribution-graph.svg">
+</picture>
