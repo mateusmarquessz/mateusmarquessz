@@ -66,7 +66,9 @@
 </div>
 
 
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mateusmarquessz/count.svg?"  />
+</div>
 
 
 ## Contribuições
