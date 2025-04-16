@@ -57,9 +57,9 @@
         <strong>JavaScript</strong>
       </td>
       <td align="center" width="150px">
-        <img src="https://img.icons8.com/officel/150/react.png" width="80px" height="80px" alt="React">
+        <img src="https://img.icons8.com/?size=100&id=j9DnICNnlhGk&format=png&color=000000" width="80px" height="80px" alt="Angular">
         <br>
-        <strong>React</strong>
+        <strong>Angular</strong>
       </td>
     </tr>
   </table>
