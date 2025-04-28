@@ -9,7 +9,7 @@
 - Me Chamo Mateus Marques
 - Sou Estudante de Ciencias da Computacao no meu ultimo ano
 - Tenho grande paixão pelo desenvolvimento Full-Stack.
-- Meu foco principal é em Java com Spring + Angular, mas possuo experiência com outras linguagens.
+- Meu foco principal é em Java com Spring + React, mas possuo experiência com outras linguagens.
 -  **Dê-me uma ⭐**
 -  **Obrigado pelo seu apoio!**
 <div> 
