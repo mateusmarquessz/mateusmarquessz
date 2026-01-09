@@ -68,13 +68,13 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mateusmarquessz/count.svg?"  />
+  <img src="https://profile-counter.deno.dev/mateusmarquessz/count.svg" />
 </div>
 
 
 ## Contribuições
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusmarquessz&show_icons=true&theme=dark)
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmarquessz&layout=compact&show_icons=true&theme=dark">
+  ![GitHub stats](https://github-readme-stats-red-seven-2029fhes1x.vercel.app/api?username=mateusmarquessz&show_icons=true&theme=dark)
+  <img height="180cm" src="https://github-readme-stats-red-seven-2029fhes1x.vercel.app/api/top-langs/?username=mateusmarquessz&layout=compact&show_icons=true&theme=dark">
 
 ## Pacman
   <picture>
