@@ -68,8 +68,9 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.deno.dev/mateusmarquessz/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=mateusmarquessz&style=for-the-badge" />
 </div>
+
 
 
 ## Contribuições
